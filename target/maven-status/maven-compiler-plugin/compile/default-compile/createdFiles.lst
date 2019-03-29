@@ -1,0 +1,5 @@
+com\socket\web\pojo\User.class
+com\socket\web\config\WebSocketServer.class
+com\socket\web\config\WebSocketServer$1.class
+com\socket\web\controller\ChatController.class
+com\socket\web\quartz\TestJob.class
